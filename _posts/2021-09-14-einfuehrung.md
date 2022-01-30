@@ -1,6 +1,6 @@
 ---
 title: "Einführungsartikel"
-date: 2021-09-20
+date: 2021-09-14
 ---
 
 Das Bachelorstudium Informationswissenschaft an der Fachhochschule Graubünden habe ich begonnen um mein Wissen im Bereich der Informationssysteme zu vertiefen. Vor dem Studium habe ich die Berufslehre als Fachmann Information und Dokumentation (vulgo Bibliothekar) in einem Museum absolviert. Im Museum wurde eine eigene Datenbankentwicklung auf Basis von FileMaker verwendet, mit der ich mich im Rahmen der Arbeit intensiv auseinanderzusetzen hatte. Von daher rührt mein Interesse für Datenbanksysteme. Daneben verwendete ich für bibliothekarische Aufgaben das System Aleph, wie es bis vor kurzem an den meisten Orten gängig war. In der Ausbildung mussten wir uns intensiv mit den Katalogisierungsregeln RDA auseinandersetzen, um in der Praxis regelkonform katalogisieren zu können. Was aus meiner Sicht zu kurz kam, war das grundlegende theoretische Wissen über den Aufbau komplexer Informationssysteme. Ich habe diese immer nur aus Anwendersicht kennen gelernt. Daher habe ich mich für den Studiengang Informationswissenschaft entschieden. 
